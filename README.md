@@ -1,8 +1,8 @@
 # Supervised Machine Learning with Python
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
+<a href="https://www2.packtpub.com/big-data-and-business-intelligence/supervised-machine-learning-python?utm_source=github&utm_medium=repository&utm_campaign=9781838825669"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B14771.png" alt="Supervised Machine Learning with Python" height="256px" align="right"></a>
 
-This is the code repository for [Book Name](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Supervised Machine Learning with Python](https://www2.packtpub.com/big-data-and-business-intelligence/supervised-machine-learning-python?utm_source=github&utm_medium=repository&utm_campaign=9781838825669), published by Packt.
 
 **Develop rich Python coding practices while exploring supervised machine learning**
 
